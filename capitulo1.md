@@ -1186,7 +1186,7 @@ pero solo con la condición de que:
 - la dimensión de **AM** sea igual a la dimensión de **BN**
 - la dimensión de **CM** sea igual a la dimensión de **DN**
 
-## Ejemplos de matrices en R 
+<!-- ## Ejemplos de matrices en R 
 
 ```R
 B=matrix(
@@ -1227,6 +1227,4 @@ Introducción de un vector:
 d = c(5 , 4 , 3 , 0)
 ```
 
-En R, hay que tener cuidado porque los vectores no son explícitamente definidos como vector columna o vector fila sino que depende del contexto, aunque *en general* funcionan como un vector columna
-
-NOTA: vale la pena poner ejemplos en R?
+En R, hay que tener cuidado porque los vectores no son explícitamente definidos como vector columna o vector fila sino que depende del contexto, aunque *en general* funcionan como un vector columna -->
