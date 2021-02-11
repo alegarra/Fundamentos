@@ -1,6 +1,8 @@
 # Fundamentos matematicos de la prediccion de valores de cria.
 
-Francisco Javier Mendizábal Múgica 
+Autor: Francisco Javier Mendizábal Múgica 
+
+![](IMG_4888.jpeg)
 
 Notas de la asignatura Mejora Genética Animal. Escuela Técnica Superior de Ingenieros Agrónomos, UPNA. Pamplona-Iruña, 1994. Reescritas y corregidas por Carolina García Baccino, Fernando Macedo y Andrés Legarra, 2020. 
 
