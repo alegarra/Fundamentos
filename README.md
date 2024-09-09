@@ -8,7 +8,6 @@ Notas de la asignatura _Mejora Genética Animal_. Escuela Técnica Superior de I
 Creative Commons CC-BY License, derecho de copiar, distribuir, exhibir y representar la obra y hacer obras derivadas siempre y cuando reconozca y cite esta obra.
 
 
-
 El vinculo a las notas en pdf esta aqui: <https://github.com/alegarra/Fundamentos/raw/main/capitulo_all.pdf> .
 
 ![](IMG_4888.jpeg)
