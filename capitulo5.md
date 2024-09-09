@@ -169,7 +169,7 @@ $$\mathbf{R}=\mathbf{I}\sigma^2_e$$
 
 $$\mathbf{R}^{-1}=\mathbf{I}\frac{1}{\sigma^2_e}$$
 
-Se asume la varianza residual de $\sigma^2_e=300000$
+Se asume la varianza residual de $\sigma^2_e=900000$
 
 - No hay correlación entre los efectos 
 genéticos aleatorios y residuos: $Cov(u,e)=0$
