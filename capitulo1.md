@@ -21,10 +21,10 @@ Tanto la estimación de parametros poblacionales, como los
 métodos modernos de predicción del valor de cria de los individues de una población, tienen como fundamento de sus cálculos el método de los mínimos cuadrados. Las demostraciones
 teóricas y la aplicación de estos métodos son sencillas en poblaciones pequeñas y con una estructura equilibrada, pero se
 vuelven
-muy complicados en caso contrario. Sin embargo se simplifican notablemente, si se abandona el álgebra de números reales para trabajar en el álgebra de matrices. Por ello es especialmente interesante para las personas relacionadas con la predicción y utilización de valores de cría, dominar los
+muy complicados en caso contrario. Sin embargo se simplifican notablemente, si se abandona el álgebra de números reales para trabajar en el álgebra de matrices. Por ello es especialmente interesante para las personas relacionadas con la predicción y utilización de valores de cría dominar los
 fundamentos del álgebra de matrices.
 
-Con estos apuntes se pretende mostrar estos fundamentos del modo mas sencillo posible y dar unos primeros pasos en su aplicacion practica.
+Con estos apuntes se pretende mostrar estos fundamentos del modo más sencillo posible y dar unos primeros pasos en su aplicacion práctica.
 
 
 # Algebra
@@ -47,7 +47,7 @@ Nuestro primer paso sera la definición de matriz y de sus operaciones, asi como
 
 Una matriz es una ordenación regular de elementos en filas y columnas. Los elementos de una matriz pueden ser números reales o incógnitas (letras minúsculas). Todas las filas tienen la misma longitud, es decir el mismo número de elementos y lo mismo hay que decir de las columnas.
 
-Generalmente una matriz se representa por una letra mayuscula (en negrita, sin cursiva) y sus elementos individuales se escriben como letras minusculas con dos subindices.
+Generalmente una matriz se representa por una letra mayúscula (en negrita, sin cursiva) y sus elementos individuales se escriben como letras minúsculas con dos subíndices.
 Por ejemplo:
 
 $$
