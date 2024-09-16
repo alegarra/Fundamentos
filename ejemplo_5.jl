@@ -179,7 +179,7 @@ all_solutions[:,14]=sol
 # borrado 1 a 9
 LHS=[X'X./sigma2e X'Z./sigma2e
      Z'X./sigma2e Z'Z./sigma2e + Ai./sigma2u]
-a_borrar=zeros(9,3)
+a_borrar=Int.(zeros(9,3))
 a_borrar[1,:]=[1 5 8]
 a_borrar[2,:]=[1 7 9]
 a_borrar[3,:]=[1 6 8]
